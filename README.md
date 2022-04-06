@@ -2,7 +2,7 @@
 
 - 🤔 Estudando dev web (html, css, javascript) ...
 - 📫 contate-me: jp14274@gmail.com 
-- 😄 Pronouns: ele/dele
+- 📍 São Luís, Ma.
 
 <div align="center">
   <a href="https://github.com/JosePedro-22">
