@@ -4,7 +4,7 @@
 - 📫 contate-me: jp14274@gmail.com 
 - 📍 São Luís, Ma.
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/JosePedro-22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosePedro-22&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosePedro-22&layout=compact&langs_count=7&theme=dark"/>
@@ -17,8 +17,8 @@
   <img align="center" alt="Jose-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jose-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/2f341fa9ecf0e384c7c0b02af8f3891f.gif">
-</div>
-  
+</div> -->
+<!--   
   ##
  
 <div> 
@@ -26,5 +26,5 @@
   <a href = "mailto:jp14274@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-pedro-s-mesquita-754b47173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+ -->
 
