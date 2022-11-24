@@ -1,7 +1,8 @@
 ## Olá eu sou José Pedro...
 
-- 🤔 Estudando dev web (html, css, javascript) ...
-- 📫 contate-me: jp14274@gmail.com 
+- 🤔 Estudando dev web (reactjs, nextjs, typescript ) ...
+- 📫 contate-me: jp14274@gmail.com
+- Linkedin: linkedin.com/in/josé-pedro-s-mesquita-754b47173/ 
 - 📍 São Luís, Ma.
 
 <!-- <div align="center">
