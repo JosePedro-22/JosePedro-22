@@ -1,8 +1,8 @@
 ## Olá eu sou José Pedro...
 
-- 🤔 Estudando dev web (reactjs, nextjs, typescript ) ...
+- 🤔 Estudando (Reactjs, Nextjs, Typescript, Laravel, PHP, Java, SpringBoot, SQL ) ...
 - 📫 contate-me: jp14274@gmail.com
-- Linkedin: linkedin.com/in/josé-pedro-s-mesquita-754b47173/ 
+- Linkedin: linkedin.com/in/josepedro-sm
 - 📍 São Luís, Ma.
 
 <!-- <div align="center">
