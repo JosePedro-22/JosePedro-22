@@ -1,8 +1,10 @@
 ## Olá eu sou José Pedro...
 
 - 🤔 Estudando (Reactjs, Nextjs, Typescript, Laravel, PHP, Java, SpringBoot, SQL ) ...
-- 📫 contate-me: jp14274@gmail.com
-- Linkedin: linkedin.com/in/josepedro-sm
+-
+-  📫 contate-me: jp14274@gmail.com
+- Linkedin: https://www.linkedin.com/in/josepedro-sm/
+-
 - 📍 São Luís, Ma.
 
 <!-- <div align="center">
