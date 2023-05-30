@@ -1,13 +1,13 @@
 ## Olá eu sou José Pedro...
 
-- 🤔 Estudando (Reactjs, Nextjs, Typescript, Laravel, PHP, Java, SpringBoot, SQL ) ...
+- 🤔 Estudando (Reactjs, Nextjs, Typescript, Laravel, PHP, SQL ) ...
 -
 -  📫 contate-me: jp14274@gmail.com
 - Linkedin: https://www.linkedin.com/in/josepedro-sm/
 -
 - 📍 São Luís, Ma.
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/JosePedro-22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosePedro-22&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosePedro-22&layout=compact&langs_count=7&theme=dark"/>
@@ -29,5 +29,5 @@
   <a href = "mailto:jp14274@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-pedro-s-mesquita-754b47173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- -->
+
 
