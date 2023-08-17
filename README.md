@@ -1,6 +1,5 @@
 ## Olá eu sou José Pedro...
 
-- 🤔 Estudando (Reactjs, Nextjs, Typescript, Laravel, PHP) ...
 -  📫 contate-me: jp14274@gmail.com
 - Linkedin: https://www.linkedin.com/in/josepedro-sm/
 
