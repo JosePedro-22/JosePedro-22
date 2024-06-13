@@ -4,13 +4,18 @@
 - Linkedin: https://www.linkedin.com/in/josepedro-sm/
 ## Sobre
 ```
-Com mais de 3 anos de experiência em desenvolvimento web, tenho me dedicado à resolução de problemas para o mercado de sistemas, desde os meus primeiros passos lidando com HTML, CSS, JavaScript e PHP, no desenvolvimento de aplicações e layouts.
+Com mais de 3 anos de experiência em desenvolvimento web, tenho me dedicado à resolução de problemas para o mercado de sistemas,
+desde os meus primeiros passos lidando com HTML, CSS, JavaScript e PHP, no desenvolvimento de aplicações e layouts.
 
-Minha jornada tomou um novo rumo ao descobrir o Laravel, um dos frameworks mais poderosos do mercado PHP. Desde a versão 7, tenho estado imerso na comunidade Laravel, continuamente aprendendo e contribuindo para o aprimoramento dessa ferramenta incrível.
+Minha jornada tomou um novo rumo ao descobrir o Laravel, um dos frameworks mais poderosos do mercado PHP. Desde a versão 7,
+tenho estado imerso na comunidade Laravel, continuamente aprendendo e contribuindo para o aprimoramento dessa ferramenta incrível.
 
-Nesse meio tempo, também aprimorei minhas habilidades em outras tecnologias, como ReactJS, NextJS, SCRUM, GIT e Docker, aplicando-as em projetos do dia a dia como Freelancer.
+Nesse meio tempo, também aprimorei minhas habilidades em outras tecnologias, como ReactJS, NextJS, SCRUM, GIT e Docker,
+aplicando-as em projetos do dia a dia como Freelancer.
 
-Ao longo dos anos, trabalhando em diferentes empresas, percebi que a programação transcende as fronteiras de uma única linguagem ou framework. Essa compreensão me levou a ampliar meu conhecimento em várias tecnologias, sempre buscando me aproximar do meu objetivo de me tornar um Analista de Software. Estou comprometido em continuar minha jornada de aprendizado, explorando novas tecnologias e aprimorando minhas habilidades constantemente.
+Ao longo dos anos, trabalhando em diferentes empresas, percebi que a programação transcende as fronteiras de uma única linguagem ou framework.
+Essa compreensão me levou a ampliar meu conhecimento em várias tecnologias, sempre buscando me aproximar do meu objetivo de me tornar um Analista de Software.
+Estou comprometido em continuar minha jornada de aprendizado, explorando novas tecnologias e aprimorando minhas habilidades constantemente.
 ```
 <div style="display: inline_block"><br>
   <img width="100" height="100" src="https://img.icons8.com/stickers/100/laravel.png" alt="laravel" />
