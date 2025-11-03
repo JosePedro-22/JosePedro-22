@@ -5,19 +5,16 @@
 - CV digital: https://josepedro-cv-digital.vercel.app/
 ## Sobre
 ```
-Engenheiro de Software e Desenvolvedor Full Stack, especializado em transformar ideias em
-aplicações web e mobile robustas, seguras e escaláveis. Atuei em projetos de alto impacto
-para órgãos públicos, empresas privadas e clientes independentes, entregando soluções que
-reduzem custos, aumentam eficiência e melhoram a experiência do usuário.
+Engenheiro de Software e Desenvolvedor Full Stack, especializado em transformar ideias em aplicações web e mobile robustas,
+seguras e escaláveis. Atuei em projetos de alto impacto para órgãos públicos, empresas privadas e clientes independentes,
+entregando soluções que reduzem custos, aumentam eficiência e melhoram a experiência do usuário.
 
-Nos últimos anos, atuei em projetos que vão desde plataformas governamentais de atendimento
-ao cidadão até sistemas corporativos de alto desempenho, sempre aplicando boas práticas,
-arquitetura limpa e metodologias ágeis.
+Nos últimos anos, atuei em projetos que vão desde plataformas governamentais de atendimento ao cidadão até sistemas
+corporativos de alto desempenho, sempre aplicando boas práticas, arquitetura limpa e metodologias ágeis.
 
 💻 Experiência técnica:
 
-Linguagens & Frameworks: PHP Laravel, JavaScript, TypeScript, React, Next.js, Vue.js,
-Tailwind CSS, Bootstrap, SCSS, VB, C#.
+Linguagens & Frameworks: PHP Laravel, JavaScript, TypeScript, React, Next.js, Vue.js, Tailwind CSS, Bootstrap, SCSS, VB, C#.
 
 Banco de dados: MySQL, PostgreSQL, SQL Server.
 
@@ -27,22 +24,19 @@ Metodologias: Scrum, Kanban, TDD.
 
 🏆 Destaques de atuação:
 
-ATI Maranhão: Desenvolvi o sistema de Denúncias Online do PROCON e o Helpdesk do SEI,
-aumentando a agilidade no atendimento e a transparência no serviço público.
+ATI Maranhão: Desenvolvi o sistema de Denúncias Online do PROCON e o Helpdesk do SEI, aumentando a agilidade no atendimento
+e a transparência no serviço público.
 
-Grupo Mirante: Contribuí para melhorias no Portal Imirante, otimizando performance
-e experiência do usuário.
+Grupo Mirante: Contribuí para melhorias no Portal Imirante, otimizando performance e experiência do usuário.
 
-Freelancer: Liderei o desenvolvimento de um sistema de auditoria contábil que
-automatizou e organizou processos internos para clientes privados.
+Freelancer: Liderei o desenvolvimento de um sistema de auditoria contábil que automatizou e organizou processos internos
+para clientes privados.
 
-ABREM Technology: Otimização de código e infraestrutura, garantindo
-maior eficiência e escalabilidade nos sistemas.
+ABREM Technology: Otimização de código e infraestrutura, garantindo maior eficiência e escalabilidade nos sistemas.
 
 🚀 Meu foco:
-Transformar ideias em aplicações reais, escaláveis e seguras, ajudando empresas a resolver
-problemas de forma rápida e eficiente. Estou sempre aprendendo novas tecnologias e aprimorando
-minhas habilidades para entregar projetos de alto impacto.
+Transformar ideias em aplicações reais, escaláveis e seguras, ajudando empresas a resolver problemas de forma rápida e eficiente.
+Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades para entregar projetos de alto impacto.
 ```
 <div style="display: inline_block"><br>
   <img width="100" height="100" src="https://img.icons8.com/stickers/100/laravel.png" alt="laravel" />
